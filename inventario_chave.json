@@ -1,0 +1,6 @@
+
+[
+  {"nome": "R1", "host": "127.0.0.1", "usuario": "r1", "chave": "$HOME/.ssh/id_redes"},
+  {"nome": "R2", "host": "127.0.0.1", "usuario": "r2", "chave": "$HOME/.ssh/id_redes"},
+  {"nome": "R3", "host": "127.0.0.1", "usuario": "r3", "chave": "$HOME/.ssh/id_redes"}
+]

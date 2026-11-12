@@ -1,0 +1,4 @@
+nome,usuario,hostname,kernel,uptime,status
+R1,,,,,FALHA: AuthenticationException
+R2,,,,,FALHA: AuthenticationException
+R3,,,,,FALHA: AuthenticationException

@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "R1",
+    "host": "127.0.0.1",
+    "porta": 22,
+    "usuario": "r1",
+    "senha": "hyan"
+  },
+  {
+    "nome": "R2",
+    "host": "127.0.0.1",
+    "porta": 22,
+    "usuario": "r2",
+    "senha": "hyan"
+  },
+  {
+    "nome": "R3",
+    "host": "127.0.0.1",
+    "porta": 22,
+    "usuario": "r3",
+    "senha": "hyan"
+  }
+]
